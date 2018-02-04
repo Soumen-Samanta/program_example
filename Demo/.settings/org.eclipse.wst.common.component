@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Demo">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes/" source-path="/ImportedClasses"/>
+        <dependent-module archiveName="spring-web-4.0.0.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/spring-web-4.0.0.RELEASE/spring-web-4.0.0.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-web-4.0.0.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-web-4.0.0.RELEASE-javadoc/spring-web-4.0.0.RELEASE-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="slf4j-log4j12-1.6.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/slf4j-log4j12-1.6.1/slf4j-log4j12-1.6.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mysql-connector-java-5.1.15-bin.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/mysql-connector-java-5.1.15-bin/mysql-connector-java-5.1.15-bin">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging-1.1.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-logging-1.1.1/commons-logging-1.1.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-beans-4.0.0.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-beans-4.0.0.RELEASE/spring-beans-4.0.0.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-support-4.0.0.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-context-support-4.0.0.RELEASE-javadoc/spring-context-support-4.0.0.RELEASE-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-core-4.0.0.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-core-4.0.0.RELEASE-javadoc/spring-core-4.0.0.RELEASE-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aspects-4.0.0.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-aspects-4.0.0.RELEASE-javadoc/spring-aspects-4.0.0.RELEASE-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jackson-core-2.0.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jackson-core-2.0.0/jackson-core-2.0.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aop-4.0.0.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-aop-4.0.0.RELEASE/spring-aop-4.0.0.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-support-4.0.0.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-context-support-4.0.0.RELEASE/spring-context-support-4.0.0.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-framework-bom-4.0.0.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-framework-bom-4.0.0.RELEASE/spring-framework-bom-4.0.0.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-4.0.0.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-context-4.0.0.RELEASE-javadoc/spring-context-4.0.0.RELEASE-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="slf4j-api-1.6.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/slf4j-api-1.6.1/slf4j-api-1.6.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jdbc-4.0.0.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-jdbc-4.0.0.RELEASE/spring-jdbc-4.0.0.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aop-4.0.0.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-aop-4.0.0.RELEASE-javadoc/spring-aop-4.0.0.RELEASE-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-beans-4.0.0.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-beans-4.0.0.RELEASE-javadoc/spring-beans-4.0.0.RELEASE-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-framework-bom-4.0.0.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-framework-bom-4.0.0.RELEASE-javadoc/spring-framework-bom-4.0.0.RELEASE-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-oxm-4.0.0.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-oxm-4.0.0.RELEASE/spring-oxm-4.0.0.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jackson-databind-2.0.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jackson-databind-2.0.0/jackson-databind-2.0.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jstl-api-1.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jstl-api-1.2/jstl-api-1.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-expression-4.0.0.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-expression-4.0.0.RELEASE/spring-expression-4.0.0.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-oxm-4.0.0.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-oxm-4.0.0.RELEASE-javadoc/spring-oxm-4.0.0.RELEASE-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-4.0.0.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-context-4.0.0.RELEASE/spring-context-4.0.0.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mysql-connector-java-5.1.40-bin.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/mysql-connector-java-5.1.40-bin/mysql-connector-java-5.1.40-bin">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-build-src-4.0.0.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-build-src-4.0.0.RELEASE/spring-build-src-4.0.0.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jstl-1.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jstl-1.2/jstl-1.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jdbc-4.0.0.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-jdbc-4.0.0.RELEASE-javadoc/spring-jdbc-4.0.0.RELEASE-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="log4j-1.2.12.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/log4j-1.2.12/log4j-1.2.12">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aspects-4.0.0.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-aspects-4.0.0.RELEASE/spring-aspects-4.0.0.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-webmvc-4.0.0.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-webmvc-4.0.0.RELEASE-javadoc/spring-webmvc-4.0.0.RELEASE-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jackson-annotations-2.0.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jackson-annotations-2.0.0/jackson-annotations-2.0.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-expression-4.0.0.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-expression-4.0.0.RELEASE-javadoc/spring-expression-4.0.0.RELEASE-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-oxm-4.0.0.RELEASE-sources.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-oxm-4.0.0.RELEASE-sources/spring-oxm-4.0.0.RELEASE-sources">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-core-4.0.0.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-core-4.0.0.RELEASE/spring-core-4.0.0.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="aopalliance-1.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/aopalliance-1.0/aopalliance-1.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-webmvc-4.0.0.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-webmvc-4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="Demo"/>
+        <property name="java-output-path" value="/Demo/build/classes"/>
+    </wb-module>
+</project-modules>

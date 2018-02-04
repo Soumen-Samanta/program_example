@@ -1,0 +1,12 @@
+127.0.0.1 - - [08/Jan/2018:17:54:09 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:17:54:11 +0530] "GET /spring-mvc-example/ HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:17:54:38 +0530] "GET /spring-mvc-example/index.html HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:17:54:49 +0530] "GET /spring-mvc-example/home HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:17:55:40 +0530] "GET /spring-mvc-example/user HTTP/1.1" 404 949
+127.0.0.1 - - [08/Jan/2018:17:57:58 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:17:57:58 +0530] "GET /spring-mvc-example/ HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:17:58:06 +0530] "GET /spring-mvc-example/user HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:17:58:10 +0530] "GET /spring-mvc-example/users HTTP/1.1" 404 949
+127.0.0.1 - - [08/Jan/2018:17:59:20 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:17:59:20 +0530] "GET /SpringMVCHibernate/ HTTP/1.1" 405 1045
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:18:03:03 +0530] "GET /SpringMVCHibernate/login HTTP/1.1" 200 293

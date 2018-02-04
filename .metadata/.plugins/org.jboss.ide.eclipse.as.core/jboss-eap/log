@@ -1,0 +1,243 @@
+!SESSION 2017-03-12 20:36:59.643 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product com.jboss.jbds.product.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.jboss.jbds.product.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-03-12 21:21:24.999
+!MESSAGE The server "jboss-eap" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. D:\Program Files\Java\jre7 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-03-12 21:21:26.511
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-03-12 21:21:37.566
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2017-03-12 21:23:17.667
+!MESSAGE Module spring3-mvc-maven-xml-hello-world published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-03-12 21:23:17.926
+!MESSAGE Module spring3-mvc-maven-xml-hello-world on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2017-03-12 21:24:03.565
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-03-12 21:24:14.478
+!MESSAGE The server "jboss-eap" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. D:\Program Files\Java\jre7 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-03-12 21:24:15.373
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-03-12 21:24:21.198
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2017-03-12 21:24:37.872
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-03-12 21:29:52.436
+!MESSAGE The server "jboss-eap" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. D:\Program Files\Java\jre7 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-03-12 21:29:53.486
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-03-12 21:29:59.103
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2017-03-12 21:37:40.455
+!MESSAGE Module dynamic published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-03-12 21:37:40.675
+!MESSAGE Module dynamic on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2017-03-12 21:38:06.816
+!MESSAGE 1 files modified in module dynamic
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2017-03-12 21:38:28.637
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-03-12 21:38:48.348
+!MESSAGE The server "jboss-eap" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. D:\Program Files\Java\jre7 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-03-12 21:38:49.229
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-03-12 21:38:55.047
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-03-12 21:40:44.158
+!MESSAGE Module spring3-mvc-maven-xml-hello-world on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-03-12 21:41:04.851
+!MESSAGE Module spring3-mvc-maven-xml-hello-world on jboss-eap still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2017-03-12 21:41:44.232
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-03-12 21:41:54.290
+!MESSAGE The server "jboss-eap" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. D:\Program Files\Java\jre7 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-03-12 21:41:55.167
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-03-12 21:42:00.939
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-03-12 21:42:01.175
+!MESSAGE Module spring3-mvc-maven-xml-hello-world on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-03-12 21:42:21.682
+!MESSAGE Module spring3-mvc-maven-xml-hello-world on jboss-eap still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-03-12 21:43:21.527
+!MESSAGE Module spring3-mvc-maven-xml-hello-world on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-03-12 21:43:42.306
+!MESSAGE Module spring3-mvc-maven-xml-hello-world on jboss-eap still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2017-03-12 21:45:35.633
+!MESSAGE Server processes have been terminated.
+
+!ENTRY unknown 0 0 2017-03-12 21:45:57.505
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2017-03-12 21:45:57.528
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-03-12 21:45:57.553
+!MESSAGE The server "jboss-eap" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. D:\Program Files\Java\jre7 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-03-12 21:45:58.485
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-03-12 21:46:04.352
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2017-03-12 21:49:23.298
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2017-03-12 21:49:38.445
+!MESSAGE Module spring3-mvc-maven-xml-hello-world published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-03-12 21:49:38.468
+!MESSAGE The server "jboss-eap" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. D:\Program Files\Java\jre7 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-03-12 21:49:39.363
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-03-12 21:49:45.113
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2017-03-12 21:50:56.007
+!MESSAGE 1 files modified in module spring3-mvc-maven-xml-hello-world
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2017-03-12 21:51:19.375
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2017-03-12 21:51:19.642
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-03-12 21:51:19.663
+!MESSAGE The server "jboss-eap" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. D:\Program Files\Java\jre7 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-03-12 21:51:20.547
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-03-12 21:51:26.392
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2017-03-12 21:53:05.453
+!MESSAGE 3 files modified in module spring3-mvc-maven-xml-hello-world
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2017-03-12 21:54:11.483
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-03-12 21:54:25.394
+!MESSAGE The server "jboss-eap" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. D:\Program Files\Java\jre7 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-03-12 21:54:26.306
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-03-12 21:54:32.127
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2017-03-12 22:09:46.564
+!MESSAGE Module dynamic published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-03-12 22:09:46.806
+!MESSAGE Module dynamic on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2017-03-12 22:10:38.844
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2017-03-12 22:10:39.066
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-03-12 22:10:39.079
+!MESSAGE The server "jboss-eap" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. D:\Program Files\Java\jre7 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-03-12 22:10:39.978
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-03-12 22:10:45.801
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2017-03-12 22:13:25.008
+!MESSAGE Server processes have been terminated.
+!SESSION 2017-03-12 22:13:35.097 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product com.jboss.jbds.product.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.jboss.jbds.product.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2017-03-12 22:14:52.034
+!MESSAGE Module spring3-mvc-maven-xml-hello-world published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2017-03-12 22:14:52.070
+!MESSAGE Module dynamic published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-03-12 22:14:52.113
+!MESSAGE The server "jboss-eap" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. D:\Program Files\Java\jre7 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-03-12 22:14:53.185
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-03-12 22:14:59.055
+!MESSAGE Server Startup Succeeded
+
+!ENTRY unknown 0 0 2017-03-12 22:36:11.697
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2017-03-12 22:37:51.795
+!MESSAGE Server processes have been terminated.
+!SESSION 2017-11-06 10:37:57.159 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product com.jboss.jbds.product.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.jboss.jbds.product.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2017-11-06 11:06:39.508
+!MESSAGE Module dynamic published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2017-11-06 11:06:39.604
+!MESSAGE Module springMVCsample published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-11-06 11:06:39.880
+!MESSAGE The server "jboss-eap" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. D:\Program Files\Java\jre7 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-11-06 11:06:43.848
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2017-11-06 11:08:07.040
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-11-06 11:08:12.148
+!MESSAGE Module springMVCsample on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-11-06 11:08:28.992
+!MESSAGE Module springMVCsample on jboss-eap still not ready to be shown in browser. Aborting delay.

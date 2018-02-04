@@ -1,0 +1,7 @@
+127.0.0.1 - - [09/Nov/2017:18:15:53 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [09/Nov/2017:18:15:57 +0530] "GET /Demo/ HTTP/1.1" 200 4006
+0:0:0:0:0:0:0:1 - - [09/Nov/2017:18:15:57 +0530] "GET /Demo/css/style.css HTTP/1.1" 200 5421
+0:0:0:0:0:0:0:1 - - [09/Nov/2017:18:15:57 +0530] "GET /Demo/css/css/font-awesome.css HTTP/1.1" 200 21658
+0:0:0:0:0:0:0:1 - - [09/Nov/2017:18:15:57 +0530] "GET /Demo/js/app.js HTTP/1.1" 200 2957
+0:0:0:0:0:0:0:1 - - [09/Nov/2017:18:16:02 +0530] "GET /Demo/css/fonts/fontawesome-webfont.woff HTTP/1.1" 200 44432
+0:0:0:0:0:0:0:1 - - [09/Nov/2017:18:16:02 +0530] "GET /Demo/css/fonts/fontawesome-webfont.eot? HTTP/1.1" 200 38205
